@@ -71,7 +71,7 @@ Passionate about **clean architecture, modular design**, and delivering **real b
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [mostafaabdelrhman868@gmail.com](mailto:mostafaabdelrhman868@gmail.com)  
+- ✉️ Email: [mostafaabdelrhman868@gmail.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/abdelrhman-mostafa-787603228/)  
 
 Feel free to reach out — I’m always open to opportunities and collaborations!
